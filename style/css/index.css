@@ -1,0 +1,94 @@
+@font-face {
+    font-family: 'SF Compact';
+    src: url(../fonts/SFCompactText-Light.woff);
+}
+
+body {
+    margin: 0;
+    top: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+.color {
+    color: white;
+}
+
+.big-section {
+    background-color: 	#DCDCDC
+}
+
+.left {
+    width: 300px;
+    margin-left: 100px;
+    padding: 80px;
+}
+
+.left__img {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.left__img img {
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+    
+
+.info-list__ava img {
+    display: flex;
+    justify-content: center;
+}
+
+.personal {
+    text-align: center;
+    font-family: 'SF Compact';
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.info-list__article {
+    border-bottom: 1px solid #4d5a5f;
+    display: flex;
+    align-items: center;
+    padding: 28px 0;
+}
+
+
+
+.info-list__image--img {
+    max-width: 36px;
+    max-height: 36px;
+}
+
+.info-list__text {
+    margin-right: 20px;
+    font-family: 'SF Compact';
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.info-list__date {
+    margin-left: 20px;
+}
+
+.info-list__title{
+    margin-bottom: 5px;
+    padding: 0;
+    margin-left: 20px;
+}
+
+.phone-list__title {
+    margin-left: 20px;
+}
+
+.info-list__date {
+    margin-top: 5px;
+}
