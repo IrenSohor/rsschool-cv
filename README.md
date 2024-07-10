@@ -1,1 +1,1 @@
-gihttps://IrenSohor.github.io/rsschool-cv/
+https://IrenSohor.github.io/rsschool-cv/
